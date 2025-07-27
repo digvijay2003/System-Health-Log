@@ -17,6 +17,7 @@ This project provides a simple yet effective shell-scripting solution to monitor
 ---
 
 ## Project Structure
+```
 system-monitor/
 ├── README.md             <-- This file
 ├── logs/                 <-- Directory for system health logs
