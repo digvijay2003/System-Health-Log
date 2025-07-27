@@ -27,8 +27,7 @@ system-monitor/
 ├── alert.sh          <-- Script for checking thresholds and sending alerts
 ├── menu.sh           <-- Interactive menu script
 └── monitor.sh        <-- Script for collecting and logging system metrics
-
-
+```
 
 ---
 
